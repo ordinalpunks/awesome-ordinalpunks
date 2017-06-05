@@ -110,10 +110,26 @@ Yes, the world's 1st podcasting feed in plain text ;-) Let's try:
 
 ## Spec(ification) - How does it work?
 
+A Feed.txt starts with a meta data block for the feed in YAML format
+followed by a list of items. Items start with a meta data block followed by the text
+using the markdown formatting conventions for structured text (headings, lists, tables, etc.) and
+hyperlinks. That's it. 
+
+
+### Dividers - Begin / Next / End
+
+Use `|>>>` to begin a Feed.txt feed. Note you use three or more `>>>` open brackets e.g.
+`|>>>>>>>>>>>>` also works.
+
+Use `<<<|` to end a Feed.txt feed. Again note you can use three or more `<<<` closing brackets e.g.
+`<<<<<<<|` also works.
+
+Use `</>` to break up items. That's it.
 
 
 
-## |{  }| - Use JSON / JSON5 / HJSON / SON for Strucutured Meta Data
+
+## Use JSON / JSON5 / HJSON / SON for Strucutured Meta Data - |{  }|
 
 As an alternative you can use human JSON for meta data blocks. Let's try:
 
@@ -123,12 +139,12 @@ As an alternative you can use human JSON for meta data blocks. Let's try:
  home_page_url:  "https://example.org/"
  feed_url:       "https://example.org/feed.txt"
  }/{
- id:  2
- url: https://example.org/second-item
+ id:  "2"
+ url: "https://example.org/second-item"
  }
  This is a second item.
  }/{
- id:  1
+ id:  "1"
  url: "https://example.org/initial-post"
  }
  Hello, world!
