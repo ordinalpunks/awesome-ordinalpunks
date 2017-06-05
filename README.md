@@ -2,7 +2,7 @@
 # Feed.TXT - A Free Feeds in Plain Text w/ Structured Meta Data
 
 
-What's Feed.TXT? Let's start with an example from JSON Feed spec:
+What's Feed.TXT? Let's start with an example from the JSON Feed spec:
 
 ```json
 {
@@ -88,7 +88,7 @@ Yes, the world's 1st podcasting feed in plain text ;-) Let's try:
  id:        http://therecord.co/chris-parrish
  title:     Special #1 - Chris Parrish
  url:       http://therecord.co/chris-parrish
- summary:   Brent interviews Chris Parrish, co-host of The Record and one-half of Aged & Distilled.",
+ summary:   Brent interviews Chris Parrish, co-host of The Record and one-half of Aged & Distilled.
  published: 2014-05-09T14:04:00-07:00
  attachments:
  - url:           http://therecord.co/downloads/The-Record-sp1e1-ChrisParrish.m4a
@@ -113,6 +113,49 @@ Yes, the world's 1st podcasting feed in plain text ;-) Let's try:
 
 
 
+## |{  }| - Use JSON / JSON5 / HJSON / SON for Strucutured Meta Data
+
+As an alternative you can use human JSON for meta data blocks. Let's try:
+
+```
+|{
+ title:          "My Example Feed"
+ home_page_url:  "https://example.org/"
+ feed_url:       "https://example.org/feed.txt"
+ }/{
+ id:  2
+ url: https://example.org/second-item
+ }
+ This is a second item.
+ }/{
+ id:  1
+ url: "https://example.org/initial-post"
+ }
+ Hello, world!
+}| 
+```
+
+Are you joking? Don't, like the more human JSON style. Let's retry in "classic" JSON:
+
+```
+|{
+ "title":          "My Example Feed",
+ "home_page_url":  "https://example.org/",
+ "feed_url":       "https://example.org/feed.txt"
+ }/{
+ "id":  "2",
+ "url": "https://example.org/second-item"
+ }
+ This is a second item.
+ }/{
+ "id":  "1",
+ "url": "https://example.org/initial-post"
+ }
+ Hello, world!
+}| 
+```
+
+Sorry, there's no XML alterantive ;-)
 
 
 ## License
