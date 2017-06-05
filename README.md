@@ -1,7 +1,7 @@
 
 [Feed.TXT @ GitHub](https://github.com/feedtxt)
 
-# Feed.TXT - A Free Feeds in Plain Text w/ Structured Meta Data Format
+# Feed.TXT - A Free Feeds Format in Plain Text w/ Structured Meta Data
 
 
 What's Feed.TXT? Let's start with an example from the JSON Feed spec:
