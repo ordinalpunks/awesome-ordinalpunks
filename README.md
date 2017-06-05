@@ -105,6 +105,30 @@ Yes, the world's 1st podcasting feed in plain text ;-) Let's try:
  [2]: http://aged-and-distilled.com/napkin/
  [3]: http://www.ci.bainbridge-isl.wa.us/
 <<<|  
+```
+
+
+## Spec(ification) - How does it work?
+
+
+
+
+
+
+## License
+
+The Feed.TXT format and conventions are dedicated to the public domain.
+Use it as you please with no restrictions whatsoever.
+
+## Questions? Comments?
+
+Send them along to the [wwwmake mailing list/forum](http://groups.google.com/group/wwwmake). Thanks.
+
+
+<!-- todo: move footer to layouts -->
+
+Brought to you by [Manuscripts](https://github.com/manuscripts) and friends. You might also like [Bib.TXT](http://bibtxt.github.io) ;-).
+
 
 
 
