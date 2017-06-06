@@ -177,7 +177,7 @@ Are you joking? Don't, like the more human JSON style. Let's retry in "classic" 
 }| 
 ```
 
-### Dividers - Begin / Next / End
+### Dividers - Begin / Next / End   (JSON Edition)
 
 Change `|>>>` to `|{` to begin a Feed.txt feed. Note you use one or more `{` open curly brackets e.g. `|{{{{` also works.
 
