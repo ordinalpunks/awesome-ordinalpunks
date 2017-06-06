@@ -1,5 +1,5 @@
 
-{% include github.html %}
+{% include header.html %}
 
 <!--
    change github.html to header.html - why? why not? 
