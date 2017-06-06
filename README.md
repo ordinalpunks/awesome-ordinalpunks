@@ -177,6 +177,15 @@ Are you joking? Don't, like the more human JSON style. Let's retry in "classic" 
 }| 
 ```
 
+### Dividers - Begin / Next / End
+
+Change `|>>>` to `|{` to begin a Feed.txt feed. Note you use one or more `{` open curly brackets e.g. `|{{{{` also works.
+
+Change `<<<|` to `}|` to end a Feed.txt feed. Again note you can use one or more `}` closing brackets e.g. `}}}}|` also works.
+
+Change `</>` to `}/{` to break up items. That's it.
+
+
 Sorry, there's no XML alternative ;-)
 
 
