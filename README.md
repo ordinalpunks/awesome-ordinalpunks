@@ -89,7 +89,7 @@ Yes, the world's 1st podcasting feed in plain text ;-) Let's try:
  comment: This is a podcast feed. You can add this feed to your podcast client using the following URL: http://therecord.co/feed.json
  title:   The Record
  home_page_url: http://therecord.co/
- feed_url:      http://therecord.co/feed.json
+ feed_url:      http://therecord.co/feed.txt
  </>
  id:        http://therecord.co/chris-parrish
  title:     Special #1 - Chris Parrish
