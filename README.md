@@ -103,7 +103,7 @@ Yes, the world's 1st podcasting feed in plain text ;-) Let's try:
    duration_in_seconds: 6629
  ---
  Chris has worked at [Adobe][1] and as a founder of Rogue Sheep, which won an Apple Design Award for Postage. 
- Chris’s new company is Aged & Distilled with Guy English — which shipped [Napkin](2), 
+ Chris's new company is Aged & Distilled with Guy English — which shipped [Napkin](2), 
  a Mac app for visual collaboration. Chris is also the co-host of The Record. 
  He lives on [Bainbridge Island][3], a quick ferry ride from Seattle.
  
