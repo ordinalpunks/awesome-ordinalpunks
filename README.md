@@ -99,7 +99,7 @@ Yes, the world's 1st podcasting feed in plain text ;-) Let's try:
  attachments:
  - url:           http://therecord.co/downloads/The-Record-sp1e1-ChrisParrish.m4a
    mime_type:     audio/x-m4a
-   size_in_bytes: 89970236,
+   size_in_bytes: 89970236
    duration_in_seconds: 6629
  ---
  Chris has worked at [Adobe][1] and as a founder of Rogue Sheep, which won an Apple Design Award for Postage. 
