@@ -58,7 +58,7 @@ I am NOT affiliated with Ordinal Punks (HODLing: 0).
 Anyways,
 to give you an idea on how-to-use
 the punk (open source) algorithm / machinery
-I have put together [**100 Ordinal Punks - The Free White Label Quick Starter Edition**](../ordinalpunks) - Yes, you can. Let's (re)create from zero / scratch a pixel-perfect
+I have put together [**100 Ordinal Punks - The Free White Label Quick Starter Edition**](https://github.com/ordinalpunks/ordinalpunks.starter) - Yes, you can. Let's (re)create from zero / scratch a pixel-perfect
 copy of the Ordinal Punks collection (Anno 2023) using text prompts ("attributes").
 
 
