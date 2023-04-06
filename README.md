@@ -49,7 +49,7 @@ If you know more, please tell / share!
 
 Q: How are punk (pixel art) images generated?
 
-Note / Disclaimer:  I (Gerald Bauer) am the creator of the punk's not dead text-to-image generation algorithm  (& [punk spritesheet](https://github.com/cryptopunksnotdead/punks.spritesheet)) BUT
+Note / Disclaimer:  I (Gerald Bauer) am the creator of the punk's not dead text-to-image generation algorithm  (& [punk spritesheet](https://github.com/openpunkart/punks.spritesheet)) BUT
 have heard about Ordinal Punks in the news and
 I have no insight knowledge and
 I am NOT affiliated with Ordinal Punks (HODLing: 0).
@@ -307,7 +307,8 @@ I found two bugs / errors in the official metadata:
 Bonus:  For your convenience I have reformated
 the dataset in javascript notation (.json)
 into the tabular dataset in the comma-separated values (.csv) format.
-The [**ordinalpunks.csv**](../ordinalpunks/ordinalpunks.csv) dataset (with 100 records / rows) reads:
+The [**ordinalpunks.csv**](https://github.com/ordinalpunks/ordinalpunks.starter/blob/master/ordinalpunks.csv) 
+dataset (with 100 records / rows) reads:
 
 ``` csv
 id,  type,  gender, skin_tone,  count, accessories
