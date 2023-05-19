@@ -1,6 +1,6 @@
 # Awesome Ordinal Punks Fam (Tree) & Frens
 
-Disclaimer: Note, the inclusing here is not an official [ordinal punks] endorsment - I (Gerald Bauer) am HODLing zero (0) ordinal punks  - 
+Disclaimer: Note, the inclusion here is not an official [ordinal punks] endorsment - I (Gerald Bauer) am HODLing zero (0) ordinal punks  - 
 and only speak / write for myself.  Suggestions more than welcome what to highlight and include (or exclude). 
 
 
