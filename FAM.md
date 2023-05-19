@@ -5,7 +5,7 @@ and only speak / write for myself.  Suggestions more than welcome what to highli
 
 
 
-## Ordinal Punks "Road Map Update" - What's Next? - More Official or Unofficial Ordinal Punks?
+## Ordinal Punks "Road Map Update" - What's Next? - More Official or Unofficial Ordinal Punks Upcoming?
 
 
 >  Eventually there will be more opportunity for people to join the [ordinal punks] community. 
