@@ -21,6 +21,6 @@ so holders can trade their holdings easily (punk ethos).
 > @Xen0ph0n.eth  with H00d [Hoodie Gang] and 
 > @ZimmerAllDay  doing some cool Neo [Neon Electric Ordinal Punks] versions for Ordinal Punks.
 >
-> - Flow Stay, Ordinal Punks Founder (May 18th, 2023)
+> -- Flow Stay, Ordinal Punks Founder (May 18th, 2023)
 
 
