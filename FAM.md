@@ -56,7 +56,7 @@ by Xen0ph0n.eth
 about: @AgnosiaETH "Art is the Alpha". 3x Founder. Cyber Security, SaaS, and Web3 Leader.  Twitter @xen0sec - https://oncyber.io/xen0ph0n
 
 
-![](https://github.com/ordbase/ordinals.sandbox/raw/master/i/hoodiegang.png)
+![](https://github.com/ordbase/ordinals.sandbox/raw/master/i/hoodiegang-ii.png)
 
 Markets & More:
 
